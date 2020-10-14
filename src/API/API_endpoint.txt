@@ -1,0 +1,4 @@
+GET -> "/" Gets all todos
+POST -> "/" Posts a new todo
+Update -> "/:id" Update an existing todo
+Delete -> "/:id" Delete an existing todo
